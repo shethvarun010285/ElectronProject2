@@ -22,8 +22,5 @@ If you want to know more about Electron app's development, please refer to the
 
 electron-sample-apps is published under the Apache v2 license. See `LICENSE` for details.
 
-## Donation
-
-If this project helps you out, you can give me a cup of coffee :)
 
 [![paypal](https://img.shields.io/badge/donate-paypal-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZVNVLSK6P6JRG)
